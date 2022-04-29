@@ -9,6 +9,8 @@
 
 <div>
   <a href="https://github.com/zeomachado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeomachado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="max-width: 100%;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeomachado&layout=compactlangs_count=7&theme=dracula" style="max-width: 100%;">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=zeomachado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="max-width: 100%;">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeomachado&layout=compactlangs_count=7&theme=dracula" style="max-width: 100%;">
 </a></div>
+
+
